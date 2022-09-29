@@ -7,5 +7,8 @@ public class Main {
         int multiple = calculator.multiple(2,5,8);
         int division = calculator.division(8,2);
         System.out.println(division);
+        System.out.println(multiple);
+        System.out.println(extraction);
+        System.out.println(addition);
     }
 }
